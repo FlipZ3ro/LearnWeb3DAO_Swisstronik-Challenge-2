@@ -22,7 +22,7 @@ function mint100tokens() public {
     _mint(msg.sender, 100*10**18);
 }
 ```
-### Explorer Minting
+### Explorer Deploy
 ```
 https://explorer-evm.testnet.swisstronik.com/tx/0xb2578cdaa7faa1cdec14a4cca3f03925be930bebe54e8d3e4bb59242fb855b29
 ```
