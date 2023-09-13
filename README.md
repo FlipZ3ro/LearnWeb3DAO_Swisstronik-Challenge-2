@@ -10,7 +10,7 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 ### Token
 ```
 Name   : ARAPZZ
-Symbol : ARPZ
+Symbol : ARP
 ```
 ### Smart Contract
 ```
