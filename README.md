@@ -38,7 +38,7 @@ https://explorer-evm.testnet.swisstronik.com/tx/0x01d302b4938f79c3ea1c8e706deb93
 
 ### Log Deploy
  <p align="center">
- <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/images/main/swiss/Screenshot%202023-09-28%20082051.png">
+ <img height="100" height="auto" src="https://raw.githubusercontent.com/arapzz/images/main/swiss/Screenshot%202023-09-28%20082051.png">
  </p>
 
 ### Log Transfer 
@@ -48,7 +48,7 @@ https://explorer-evm.testnet.swisstronik.com/tx/0x01d302b4938f79c3ea1c8e706deb93
 
 ### Log Balance 0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1
  <p align="center">
- <img height="250" height="auto" src="https://raw.githubusercontent.com/arapzz/images/main/swiss/Screenshot%202023-09-28%20082304.png">
+ <img height="100" height="auto" src="https://raw.githubusercontent.com/arapzz/images/main/swiss/Screenshot%202023-09-28%20082304.png">
  </p>
      
 # Usage
