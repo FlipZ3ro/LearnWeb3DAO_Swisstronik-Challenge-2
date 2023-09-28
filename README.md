@@ -22,7 +22,15 @@ Symbol : ARPZ
 function mint100tokens() public {
     _mint(msg.sender, 100*10**18);
 }
+
 ```
+### Function Transfer 10 Tokens
+```
+  const replace_functionName = "transfer";
+  const replace_functionArgs = ["0x16af037878a6cAce2Ea29d39A3757aC2F6F7aac1", "10"];
+  const transaction = await sendShieldedTransaction(signer, replace_contractAddress, contract.interface.encodeFunctionData(replace_functionName, replace_functionArgs), 0);
+```
+
 ### Explorer Deploy
 ```
 https://explorer-evm.testnet.swisstronik.com/tx/0xb2578cdaa7faa1cdec14a4cca3f03925be930bebe54e8d3e4bb59242fb855b29
