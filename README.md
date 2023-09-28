@@ -33,15 +33,15 @@ function mint100tokens() public {
 
 ### Explorer Deploy
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xb2578cdaa7faa1cdec14a4cca3f03925be930bebe54e8d3e4bb59242fb855b29
+https://explorer-evm.testnet.swisstronik.com/tx/0x354407c1124001f9673c51e81837c4d6412bf2c1760f8167573560ba48337b21
 ```
 ### Explorer Minting
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0xb7b6e171857b51682eac37d4dc055de94397efc2e312fe146c626a96cf47a44f
+https://explorer-evm.testnet.swisstronik.com/tx/0x0a2335ca658eeb62f04e91ea562ce7848ee9255c70cfd1227021e92fd4fc7b17
 ```
 ### Explorer Transfer
 ```
-https://explorer-evm.testnet.swisstronik.com/tx/0x01d302b4938f79c3ea1c8e706deb9317c8527cc06e45792895bb7e6f300a9e8c
+https://explorer-evm.testnet.swisstronik.com/tx/0x9c0ffd612cb2e32a1c547815ebdc396b6bad63f0eb86b215a67c8ece7e866c8a
 ```
 
 ### Log Deploy
